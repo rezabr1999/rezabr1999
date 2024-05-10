@@ -6,4 +6,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)  
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=RexLinus&theme=onedark)](https://git.io/streak-stats)
+
