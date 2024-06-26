@@ -17,10 +17,6 @@ I've been coding for a few years, mainly focusing on front-end development with 
         <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="48" height="48" />
       <br>TypeScript
     </td>
-    <td align="center" width="96"> 
-        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="48" height="48" alt="icon" />
-      <br>Git
-    </td>
   </tr>
 </table>
 
@@ -56,6 +52,10 @@ I've been coding for a few years, mainly focusing on front-end development with 
     <td align="center" width="96"> 
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="48" height="48" alt="icon" />
       <br>Linux
+    </td>
+        <td align="center" width="96"> 
+        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="48" height="48" alt="icon" />
+      <br>Git
     </td>
   </tr>
 </table>
