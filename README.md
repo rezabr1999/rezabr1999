@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RexLinus" />
-
 # Hi there 👋
 
 I've been coding for a few years, mainly focusing on front-end development with a strong grasp of JavaScript. I have a passion for coding and currently expanding my skills in C while exploring various programming areas out of curiosity.
