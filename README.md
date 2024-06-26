@@ -1,9 +1,66 @@
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)  
-  
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amirhosein-gharaati" />
 
+# Hi there 👋
+
+I've been coding for a few years, mainly focusing on front-end development with a strong grasp of JavaScript. I have a passion for coding and currently expanding my skills in C while exploring various programming areas out of curiosity.
+
+### Languages
+<table>
+  <tr>
+    <td align="center" width="96"> 
+        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="48" height="48" alt="icon" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="icon" width="48" height="48" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="48" height="48" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="48" height="48" alt="icon" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+### Frameworks
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="48" height="48" alt="icon" />
+      <br>React
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" width="48" height="48" alt="icon" />
+      <br>Sass
+    </td>
+  </tr>
+</table>
+
+### Technologies
+<table>
+  <tr>
+    <td align="center" width="96"> 
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" width="48" height="48" alt="icon" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="48" height="48" alt="icon" />
+      <br>VSCode
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="48" height="48" alt="icon" />
+      <br>Postman
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="48" height="48" alt="icon" />
+      <br>Linux
+    </td>
+  </tr>
+</table>
+  
+  
+  
