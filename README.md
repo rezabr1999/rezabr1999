@@ -19,7 +19,7 @@
 
 <br/>
 
-  ###<summary><b>⚡ Github Stats</b></summary>
+  ### ⚡ Github Stats
 
   <br />
   
