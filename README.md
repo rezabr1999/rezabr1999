@@ -3,7 +3,7 @@
   	    <li><b>Name:</b> Reza</li>
 	    <li><b>Country: </b> Iran</li>
   	    <li><b>Born In: </b> 1999</li>
-	    <li><b>Educatio: </b> (soon to be) Mechanical Engineering Student</li>
+	    <li><b>Education: </b> (soon to be) Mechanical Engineering Student</li>
 	    <li><b>Passion:</b> Coding - Language Learning - Building Stuff</li>
 	    <li><b>Reach Me :</b> reza.linusx@gmail.com</li>
 </ul>
