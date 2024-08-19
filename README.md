@@ -1,17 +1,17 @@
 <details>
   <br />
-  <summary><b>⚙️ About Me</b></summary>
+  <summary><b>⚙️ about me</b></summary>
   	<ul>
-  	    <li><b>Name:</b> Reza</li>
-	    <li><b>Country: </b> Iran</li>
-  	  <li><b>Born In: </b> 1999</li>
-	    <li><b>Educatio: </b> (soon to be) Mechanical Engineering Student</li>
-	    <li><b>Passion:</b> Coding - Language Learning - Building Stuff</li>
+  	    <li><b>name:</b> reza</li>
+	    <li><b>country: </b> iran</li>
+  	  <li><b>born in: </b> 1999</li>
+	    <li><b>education: </b>[will be filled soon]</li>
+	    <li><b>passion:</b> coding - learning - building stuff</li>
 	</ul>
 </details>
 
 <details>
-  <summary><b>💡 Technologies & Languages</b></summary>
+  <summary><b>💡 technologies & languages</b></summary>
 
   <br />
 
@@ -20,7 +20,7 @@
 </details>
 
 <details>
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b>⚡ github stats</b></summary>
 
   <br />
 
@@ -30,7 +30,7 @@
 </details>
 
 <details>
-  <summary><b>☄️ Github Streaks</b></summary>
+  <summary><b>☄️ github streaks</b></summary>
 
   <br />
 
